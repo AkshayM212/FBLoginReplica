@@ -1,0 +1,139 @@
+body{
+    margin: 0px;
+}
+
+.top-div {
+    background-color:#f0f2f5;
+    padding-bottom: 489px;
+}
+
+.dec{
+    border-bottom: 1px solid #dadde1;
+    margin: 20px 16px;
+}
+
+img{
+    width: 400px;
+    height: 106px;
+    position: relative;
+    left: 385px;
+    top: 176px;
+}
+p {
+    position: relative;
+    top: 136px;
+    left: 462px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+}
+
+.login-div{
+    position: absolute;
+    left: 1044px;
+    top:131px;
+    background-color: #fff;
+    width: 400px;
+    padding-bottom: 20px;
+    font-family: inherit;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+.button1{
+    width: 372px;
+    background-color: #1877f2;
+    border: none;
+    margin-left: 15px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px;
+}
+.forgot-pass{
+    position: relative;
+    left: 133px;
+}
+
+.button2{
+    position: relative;
+    left: 102px;
+    width: 200px;
+    background-color: #42b72a;
+    font-size: 17px;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.email-phn{
+    position: relative;
+    width: 360px;
+    margin: 15px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 8px;
+    border: 1px solid #dddfe2;
+    padding: 5px;
+}
+.pass{
+    position: relative;
+    width: 360px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 8px;
+    border: 1px solid #dddfe2;
+    padding: 5px;
+    
+}
+ul, li{
+    padding: 3px;
+    list-style-type: none;
+    display: inline;
+    margin: 1px;
+}    
+
+.bottom-div{
+    font-family: inherit;
+    color: #737373;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    padding-top: 25px;
+    position: relative;
+    left: 460px;
+
+}
+
+.bottomlang{
+    background-color: #f5f6f7;
+    border-radius: 8px;
+    color: #8a8d91
+}
+.line{
+    border-bottom: 1px solid #dddfe2;
+    margin-left: 24%;
+    margin-right: 24%;
+    margin-top: 12px;
+    
+}
+.lastdiv{
+    font-family: inherit;
+    color: #737373;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    position: relative;
+    left: 460px;
+    margin-top: 10px;
+}
+.para{
+    position: absolute;
+    top: 490px;
+    left: 1100px;
+    color: #1c1e21;
+    font-size: 14px;
+}
